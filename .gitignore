@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment files
+.env
+.env.local
+
+# Production builds
+dist/
+build/
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Uploaded sensitive documents
+uploads/*
+!uploads/.gitkeep
+!uploads/sample_*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# System and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
