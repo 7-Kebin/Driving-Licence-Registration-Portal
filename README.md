@@ -253,3 +253,5 @@ All 17 integration tests across authentication, role authorization, application 
 - **Brute-Force Protection:** Rate limiting on authentication routes (100 requests per 15 minutes).
 - **Security Headers:** Comprehensive Helmet.js integration.
 - **Audit Logging:** Administrative status changes, logins, and test results are recorded in `audit_logs`.
+#   D r i v i n g - L i c e n c e - R e g i s t r a t i o n - P o r t a l  
+ 
